@@ -1,9 +1,3 @@
-## Overview
-
-The **Digital Logic Design Environment** is an interactive C++ application that simulates a virtual digital logic circuit board. It allows users to create, configure, and evaluate complex digital circuits composed of various logic gates (NOT, BUFFER, NAND, AND, NOR, OR, XNOR, XOR) with support for hierarchical gate structures, wiring systems, and persistent storage.
-
----
-
 # Table of Contents
 
 1. [Overview](#overview)
@@ -54,6 +48,12 @@ The **Digital Logic Design Environment** is an interactive C++ application that 
 14. [Memory Management](#memory-management)
 15. [Main Application Loop](#main-application-loop)
 # Digital Logic Design Environment - Complete Documentation
+
+## Overview
+
+The **Digital Logic Design Environment** is an interactive C++ application that simulates a virtual digital logic circuit board. It allows users to create, configure, and evaluate complex digital circuits composed of various logic gates (NOT, BUFFER, NAND, AND, NOR, OR, XNOR, XOR) with support for hierarchical gate structures, wiring systems, and persistent storage.
+
+---
 
 ## Project Structure
 
